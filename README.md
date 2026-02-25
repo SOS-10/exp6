@@ -43,7 +43,7 @@ This project demonstrates a form that involves:
 
 ### Experiment 6.2
 
-<img width="450" height="725" alt="Screenshot 2026-02-25 225149" src="https://github.com/user-attachments/assets/ebc9b00a-4558-4697-aa41-6b14f95a0c90" />
+<img width="450" height="732" alt="Screenshot 2026-02-25 225204" src="https://github.com/user-attachments/assets/92e8d42d-0ed9-46a9-a6ba-23f1545fb78f" />
 -
 -
 <img width="500" height="604" alt="Screenshot 2026-02-25 225222" src="https://github.com/user-attachments/assets/9cc25c26-ad9c-42e0-ae4f-e5d8d729bc5f" />
