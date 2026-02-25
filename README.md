@@ -35,4 +35,18 @@ This project demonstrates a form that involves:
 
 ### Experiment 6.1
 
+<img width="450" height="823" alt="Screenshot 2026-02-25 223526" src="https://github.com/user-attachments/assets/f91eb979-c6e7-4605-9643-61a85a58fb8d" />
+-
+-
+<img width="450" height="898" alt="Screenshot 2026-02-25 223521" src="https://github.com/user-attachments/assets/9a9d406b-a5a3-4d56-b079-a84bcbad4def" />
+-
+
 ### Experiment 6.2
+
+<img width="450" height="725" alt="Screenshot 2026-02-25 225149" src="https://github.com/user-attachments/assets/ebc9b00a-4558-4697-aa41-6b14f95a0c90" />
+-
+-
+<img width="500" height="604" alt="Screenshot 2026-02-25 225222" src="https://github.com/user-attachments/assets/9cc25c26-ad9c-42e0-ae4f-e5d8d729bc5f" />
+
+
+
